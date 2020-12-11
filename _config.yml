@@ -8,24 +8,24 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: https://marcosvdotcom.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-gh
+baseurl: /NewProLifeHistory
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/marcosvdotcom/NewProLifeHistory
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: New ProLife History
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A new history of the prolife movement.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Exploring the history of the modern prolife movement"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Micki Burdick
 
 ##########
 # COLLECTION SETTINGS
