@@ -11,20 +11,16 @@ permalink: /about.html
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Pro-Life History Project
-
 The Pro-Life History Project was created as an “alternative timeline” from research that works alongside a history of reproductive justice but focuses on the pro-life movement. This website was made for scholars of reproductive justice, to explore the various tactics of people in the pro-life movement in the United States. Explore this virtual archive through people, tactics, dates, and places specifically pertinent to the Pro-Life Movement
  
 ## History
 My work concerns white women’s roles in the pro-life movement since the instantiation of Roe v. Wade in the United States. My research includes ethnographic as well as archival work that will foreground the historical research that is lacking and needs to be completed in the scholarly areas of feminism and reproductive justice. I aim to unearth the histories of the grassroots pro-life movement and their discourses and tactics in order to understand the consequences of women’s involvement for larger discourses surrounding reproductive rights and abortion. The problem with unearthing this rich history of the pro-life movement and its impact on reproductive laws and rights in the United States is the lack of archival material that has been collected since the start of these movements. This website is my attempt to publicize this forgotten and hidden history specifically in Iowa and the Midwest region of the United States.
  
 ## Team
-
 Micki Burdick is a PhD Student at the University of Iowa. They study the rhetorical history of the pro-life movement through the bodies of the women who mainly lead these groups. They attempt to understand the pro-life movement through images, narratives, and videos that can tell the stories of these bodies and how they affect other bodies.
 They would like to thank the Iowa Women’s Archive for the images and archival resources.
 
-
-
-
+## old stuff (instructions that will be cut)
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
@@ -33,7 +29,6 @@ This site is generated using [`collectionbuilder-gh`](https://collectionbuilding
 
 The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-## About the About Page
 
 We want to make About pages exciting, and easy to build. 
 
